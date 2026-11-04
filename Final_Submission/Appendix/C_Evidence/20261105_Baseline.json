@@ -1,0 +1,19 @@
+{
+  "title": "Vulnerability Prioritisation Using EPSS and CVSS for Resource-Constrained SMEs",
+  "seq": 23,
+  "kind": "vuln",
+  "mode": "SyntheticBaseline",
+  "generatedUtc": "2026-11-04T17:32:10.900462+00:00",
+  "author": "Md Shohrab Hossen Niaz",
+  "notes": "Baseline evidence model for portfolio reproducibility. Live lab evidence may be added later without renaming the repo.",
+  "artefacts": [
+    "prioritisation method",
+    "sample findings register",
+    "remediation SLA model"
+  ],
+  "scoreModel": {
+    "baselineMaturity": 42,
+    "targetMaturity": 70,
+    "unit": "0-100 design-coverage index"
+  }
+}
