@@ -1,10 +1,17 @@
 {
-  "seq": 23,
   "title": "Vulnerability Prioritisation Using EPSS and CVSS for Resource-Constrained SMEs",
-  "slug": "vulnerability-prioritisation-using-epss-and-cvss-for-re",
+  "old_slug": "vulnerability-prioritisation-using-epss-and-cvss-for-re",
+  "slug": "epss-cvss-vuln-prioritisation",
   "folder": "Vulnerability_Prioritisation_Using_Epss_And_Cvss_For",
   "kind": "vuln",
-  "body_words": 251,
+  "body_words": 319,
+  "source": "SCI700",
   "project_id": "Project 12",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
